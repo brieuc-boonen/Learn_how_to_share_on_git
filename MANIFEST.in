@@ -1,0 +1,3 @@
+graft learn_how_to_share_on_git
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  learn_how_to_share_on_git/jupy *
