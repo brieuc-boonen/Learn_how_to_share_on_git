@@ -9,7 +9,7 @@ import datetime
 
 pd.set_option('display.width', 200)
 
-def try_me()
+def try_me():
     print("hey, good job Brieuc, it works !")
 
 
